@@ -7,7 +7,7 @@ public class Solution01 {
     public static void main(String[] args) {
         /*
          *  UCF COP3330 Fall 2021 Assignment 1 Solution
-         *  Copyright 2021 first_name last_name
+         *  Copyright 2021 Kimari Guthre
          */
         /* Make a scanner,
         then ask name,
